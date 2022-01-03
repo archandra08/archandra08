@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DSLOCAL1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=HO-TIF-ACK\MSSQLSERVER2019;Initial Catalog=PNM</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>da6d881f-736f-4e0c-a8b8-5c84359138ca</DataSourceID>
+</RptDataSource>

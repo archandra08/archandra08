@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_15">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=10.61.3.15;Initial Catalog=PKMMobile</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>5b494dce-2da2-471e-91a9-ee95c7f9ae05</DataSourceID>
+</RptDataSource>
